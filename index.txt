@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>Let's game</title>
+</head>
+<body>
+	<h1>I wanna code the best AI project!</h1>
+</body>
+</html>
